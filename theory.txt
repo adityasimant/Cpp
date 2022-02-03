@@ -1,0 +1,25 @@
+There are two types of languages:
+    1. procedure oriented 
+    2. object oriented.
+
+procedure : in this type, all code is divided into procedures(functs.)
+    we concentrate on code in procedure oriented languages.
+    eg. C
+
+OOPs : Object is a real world entity that can be descibed by attributes and every
+    object has actions.
+    eg. Phones:
+        attributes : company, OS, RAM, cost,camera, etc.
+        actions : phone,sms etc
+
+        Bulb :
+        attributes: name ,watts,etc.
+        actions: on/off.
+
+class: class act as a blueprint for objects. In class we declare var. to 
+    represnet attributes of object n we declare functs to represnet actions
+    of the object.
+
+    for eg. bilb , all attributes are var.
+        and all actions are method or functs.
+
