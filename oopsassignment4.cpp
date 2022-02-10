@@ -44,6 +44,7 @@ public:
 
 int main()
 {
-
+    tickets t1;
+    t1.setTo("mumbai");
     return 0;
 }
