@@ -1,11 +1,11 @@
 #include<iostream>
 using namespace std;
 
-class Test{
+class Complex{
     private:
         int x,y;
     public:
-        Test(int x, int y){
+        Complex(int x, int y){
             this->x=x;
             this->y=y;       
         }

@@ -19,7 +19,7 @@ class student{
         }
 };
 
-class marks : public student{
+class marks :virtual public student{
     private:
         int marks1;
         int marks2;
@@ -38,7 +38,7 @@ class marks : public student{
 
 };
 
-class sport{
+class sport : virtual public student{
     private :
         char grade;
     public:
