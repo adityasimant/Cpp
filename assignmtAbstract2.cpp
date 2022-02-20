@@ -35,7 +35,10 @@ class Luggage : public Compartment{
    
 };
 class TestCompartment{
-      
+      public:
+      void default1(){
+          cout<<"this is test compartment ";
+      }
 };
 
 
