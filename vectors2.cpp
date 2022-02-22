@@ -31,10 +31,5 @@ int main(){
         cout<<v1.at(i)<<endl;
     }
 
-
-
-  
-
-
     return 0;
 }
